@@ -11,5 +11,5 @@ def solve(f):
     
     return 3.333; # Change this to a value of x where f(x) = 0
     
-x = solve(lambda x : x*x +3*x -2)
+x = solve(lambda x : x**2 + 3*x - 2)
 print('We have found x = ' + str(x));
