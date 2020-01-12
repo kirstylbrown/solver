@@ -1,4 +1,3 @@
-# We are going to build a simple solver for a 1D real valued function 
 import numpy as np
 import timeit
 
